@@ -82,6 +82,6 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
  	fi
 fi
 
-	add_lunch_combo omni_G-eng
-	add_lunch_combo omni_G-userdebug
+	add_lunch_combo twrp_G-eng
+	add_lunch_combo twrp_G-userdebug
 
